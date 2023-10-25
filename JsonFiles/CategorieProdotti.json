@@ -1,0 +1,229 @@
+[
+  {
+    "CategoryName": "Beverages",
+    "Products": [
+      { "ProductName": "Chang", "UnitPrice": 190.0, "Giacenza": 0 },
+      { "ProductName": "Guaraná Fantástica", "UnitPrice": 4.5, "Giacenza": 20 },
+      { "ProductName": "Sasquatch Ale", "UnitPrice": 14.0, "Giacenza": 111 },
+      { "ProductName": "Steeleye Stout", "UnitPrice": 18.0, "Giacenza": 20 },
+      { "ProductName": "Côte de Blaye", "UnitPrice": 263.5, "Giacenza": 17 },
+      { "ProductName": "Chartreuse verte", "UnitPrice": 18.0, "Giacenza": 69 },
+      { "ProductName": "Ipoh Coffee", "UnitPrice": 46.0, "Giacenza": 17 },
+      {
+        "ProductName": "Laughing Lumberjack Lager",
+        "UnitPrice": 14.0,
+        "Giacenza": 52
+      },
+      { "ProductName": "Outback Lager", "UnitPrice": 15.0, "Giacenza": 15 },
+      {
+        "ProductName": "Rhönbräu Klosterbier",
+        "UnitPrice": 7.75,
+        "Giacenza": 125
+      },
+      { "ProductName": "Lakkalikööri", "UnitPrice": 180.0, "Giacenza": 0 },
+      {
+        "ProductName": "Original Frankfurter grüne Soße",
+        "UnitPrice": 130.0,
+        "Giacenza": 0
+      }
+    ]
+  },
+  {
+    "CategoryName": "Condiments",
+    "Products": [
+      {
+        "ProductName": "Chef Anton's Cajun Seasoning",
+        "UnitPrice": 1.5,
+        "Giacenza": 0
+      },
+      {
+        "ProductName": "Chef Anton's Gumbo Mix",
+        "UnitPrice": 0.01,
+        "Giacenza": 0
+      },
+      {
+        "ProductName": "Grandma's Boysenberry Spread",
+        "UnitPrice": 250.0,
+        "Giacenza": 0
+      },
+      {
+        "ProductName": "Northwoods Cranberry Sauce",
+        "UnitPrice": 1.5,
+        "Giacenza": 6
+      },
+      { "ProductName": "Genen Shouyu", "UnitPrice": 1.5, "Giacenza": 39 },
+      { "ProductName": "Gula Malacca", "UnitPrice": 28.6, "Giacenza": 27 },
+      { "ProductName": "Sirop d'érable", "UnitPrice": 28.6, "Giacenza": 113 },
+      { "ProductName": "Vegie-spread", "UnitPrice": 43.9, "Giacenza": 24 },
+      {
+        "ProductName": "Louisiana Fiery Hot Pepper Sauce",
+        "UnitPrice": 21.05,
+        "Giacenza": 76
+      },
+      {
+        "ProductName": "Louisiana Hot Spiced Okra",
+        "UnitPrice": 170.0,
+        "Giacenza": 0
+      }
+    ]
+  },
+  {
+    "CategoryName": "Confections",
+    "Products": [
+      { "ProductName": "Pavlova", "UnitPrice": 17.45, "Giacenza": 29 },
+      {
+        "ProductName": "Teatime Chocolate Biscuits",
+        "UnitPrice": 9.2,
+        "Giacenza": 25
+      },
+      {
+        "ProductName": "Sir Rodney's Marmalade",
+        "UnitPrice": 81.0,
+        "Giacenza": 40
+      },
+      {
+        "ProductName": "Sir Rodney's Scones",
+        "UnitPrice": 10.0,
+        "Giacenza": 3
+      },
+      {
+        "ProductName": "NuNuCa Nuß-Nougat-Creme",
+        "UnitPrice": 14.0,
+        "Giacenza": 76
+      },
+      {
+        "ProductName": "Gumbär Gummibärchen",
+        "UnitPrice": 31.23,
+        "Giacenza": 15
+      },
+      {
+        "ProductName": "Schoggi Schokolade",
+        "UnitPrice": 43.9,
+        "Giacenza": 49
+      },
+      { "ProductName": "Zaanse koeken", "UnitPrice": 9.5, "Giacenza": 36 },
+      { "ProductName": "Chocolade", "UnitPrice": 12.75, "Giacenza": 15 },
+      { "ProductName": "Maxilaku", "UnitPrice": 20.0, "Giacenza": 10 },
+      { "ProductName": "Valkoinen suklaa", "UnitPrice": 16.25, "Giacenza": 65 },
+      { "ProductName": "Tarte au sucre", "UnitPrice": 49.3, "Giacenza": 17 },
+      { "ProductName": "Scottish Longbreads", "UnitPrice": 12.5, "Giacenza": 6 }
+    ]
+  },
+  {
+    "CategoryName": "Dairy Products",
+    "Products": [
+      { "ProductName": "Queso Cabrales", "UnitPrice": 21.0, "Giacenza": 22 },
+      {
+        "ProductName": "Queso Manchego La Pastora",
+        "UnitPrice": 38.0,
+        "Giacenza": 86
+      },
+      { "ProductName": "Gorgonzola Telino", "UnitPrice": 12.5, "Giacenza": 0 },
+      { "ProductName": "Mascarpone Fabioli", "UnitPrice": 32.0, "Giacenza": 9 },
+      { "ProductName": "Geitost", "UnitPrice": 2.5, "Giacenza": 112 },
+      {
+        "ProductName": "Raclette Courdavault",
+        "UnitPrice": 55.0,
+        "Giacenza": 79
+      },
+      { "ProductName": "Camembert Pierrot", "UnitPrice": 34.0, "Giacenza": 19 },
+      { "ProductName": "Gudbrandsdalsost", "UnitPrice": 36.0, "Giacenza": 26 },
+      { "ProductName": "Flotemysost", "UnitPrice": 21.5, "Giacenza": 26 },
+      {
+        "ProductName": "Mozzarella di Giovanni",
+        "UnitPrice": 34.8,
+        "Giacenza": 14
+      }
+    ]
+  },
+  {
+    "CategoryName": "Grains/Cereals",
+    "Products": [
+      {
+        "ProductName": "Gustaf's Knäckebröd",
+        "UnitPrice": 21.0,
+        "Giacenza": 104
+      },
+      { "ProductName": "Tunnbröd", "UnitPrice": 9.0, "Giacenza": 61 },
+      {
+        "ProductName": "Singaporean Hokkien Fried Mee",
+        "UnitPrice": 14.0,
+        "Giacenza": 26
+      },
+      { "ProductName": "Filo Mix", "UnitPrice": 7.0, "Giacenza": 38 },
+      {
+        "ProductName": "Gnocchi di nonna Alice",
+        "UnitPrice": 38.0,
+        "Giacenza": 21
+      },
+      { "ProductName": "Ravioli Angelo", "UnitPrice": 19.5, "Giacenza": 36 },
+      {
+        "ProductName": "Wimmers gute Semmelknödel",
+        "UnitPrice": 33.25,
+        "Giacenza": 22
+      }
+    ]
+  },
+  {
+    "CategoryName": "Meat/Poultry",
+    "Products": [
+      { "ProductName": "Mishi Kobe Niku", "UnitPrice": 97.0, "Giacenza": 29 },
+      { "ProductName": "Alice Mutton", "UnitPrice": 39.0, "Giacenza": 0 },
+      {
+        "ProductName": "Thüringer Rostbratwurst",
+        "UnitPrice": 123.79,
+        "Giacenza": 0
+      },
+      { "ProductName": "Perth Pasties", "UnitPrice": 32.8, "Giacenza": 0 },
+      { "ProductName": "Tourtière", "UnitPrice": 7.45, "Giacenza": 21 },
+      { "ProductName": "Pâté chinois", "UnitPrice": 24.0, "Giacenza": 115 }
+    ]
+  },
+  {
+    "CategoryName": "Produce",
+    "Products": [
+      {
+        "ProductName": "Uncle Bob's Organic Dried Pears",
+        "UnitPrice": 30.0,
+        "Giacenza": 15
+      },
+      { "ProductName": "Tofu", "UnitPrice": 23.25, "Giacenza": 35 },
+      { "ProductName": "Rössle Sauerkraut", "UnitPrice": 45.6, "Giacenza": 26 },
+      {
+        "ProductName": "Manjimup Dried Apples",
+        "UnitPrice": 53.0,
+        "Giacenza": 20
+      },
+      { "ProductName": "Longlife Tofu", "UnitPrice": 10.0, "Giacenza": 4 }
+    ]
+  },
+  {
+    "CategoryName": "Seafood",
+    "Products": [
+      { "ProductName": "Ikura", "UnitPrice": 3.0, "Giacenza": 0 },
+      { "ProductName": "Konbu", "UnitPrice": 6.0, "Giacenza": 24 },
+      { "ProductName": "Carnarvon Tigers", "UnitPrice": 62.5, "Giacenza": 42 },
+      {
+        "ProductName": "Nord-Ost Matjeshering",
+        "UnitPrice": 25.89,
+        "Giacenza": 10
+      },
+      { "ProductName": "Inlagd Sill", "UnitPrice": 19.0, "Giacenza": 112 },
+      { "ProductName": "Gravad lax", "UnitPrice": 26.0, "Giacenza": 11 },
+      { "ProductName": "Boston Crab Meat", "UnitPrice": 18.4, "Giacenza": 123 },
+      {
+        "ProductName": "Jack's New England Clam Chowder",
+        "UnitPrice": 9.65,
+        "Giacenza": 85
+      },
+      { "ProductName": "Rogede sild", "UnitPrice": 9.5, "Giacenza": 5 },
+      { "ProductName": "Spegesild", "UnitPrice": 12.0, "Giacenza": 95 },
+      {
+        "ProductName": "Escargots de Bourgogne",
+        "UnitPrice": 13.25,
+        "Giacenza": 62
+      },
+      { "ProductName": "Röd Kaviar", "UnitPrice": 15.0, "Giacenza": 101 }
+    ]
+  }
+]
